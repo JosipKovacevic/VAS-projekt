@@ -1,0 +1,10 @@
+Prvo se je potrebno pozicionirati u mapu koja sadrži aplikaciju
+Aplikacije se pokreće pomoću linije naredbom:
+python3 parNepar.py
+
+Za promjenu igre do koliko se igra, potrebno je promijeniti varijablu igraDo (linija 24)
+Za promjenu koji agent igra igu potrebno je promijeniti kojeg agenta se zove (linije 289/290)
+Mogući izbor su : 
+Golem - slučajni izbor, 
+parniGolem - parni brojevi, 
+neparniGolem - neparni brojevi.
